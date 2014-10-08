@@ -7,9 +7,10 @@
   <%= csrf_meta_tags %>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body>
+<body onload="getBreadcrumb(document, document.location, document.title)">
 
   <div class="container">
+	<div id=breadcrumbs></div>
     <%= yield %>
   </div>
 

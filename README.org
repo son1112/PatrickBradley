@@ -1,5 +1,19 @@
 PatrickBradley Art Site
 
+* Design
+
+  - [ ] slide show type of gallery
+
+  - [ ] purchase gallery
+     
+    paypal?
+
+    bidding?
+
+  - [ ] scanned images
+
+  - [ ] music/bandcamp
+
 * Files
 
   [[./config/routes.rb][routes]]
@@ -12,6 +26,7 @@ PatrickBradley Art Site
   [[./app/views/layouts/application.html.erb][Application Layout]]
 
   [[./app/views/static_pages/home.html.erb][Home]]
+
 
 * Style & Behavior
 
